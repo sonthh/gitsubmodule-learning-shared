@@ -1,0 +1,23 @@
+{
+  "name": "shared",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "clsx": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonthh/gitsubmodule-learning-shared.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sonthh/gitsubmodule-learning-shared/issues"
+  },
+  "homepage": "https://github.com/sonthh/gitsubmodule-learning-shared#readme"
+}
